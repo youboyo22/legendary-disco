@@ -1,0 +1,47 @@
+{
+    "mnemonic": "amateur vast camera jewel park match play century road game deer crawl",
+    "rpc": "",
+    "network": "atlantic-2",
+    "name": "kalee",
+    "symbol": "kl",
+    "description": "",
+    "supply": 7,
+    "token_uri": "https://arweave.net/z55f81y8hTtqLU_fSWbQj6OFwc7Y5bS_v6M-pcP8vUI",
+    "royalty_percent": 5,
+    "royalty_wallet": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+    "iterated_uri": true,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": "",
+    "groups": [
+      {
+        "name": "whitelist",
+        "merkle_root": "dcd038eeec4c67d44de097df2d773179fa811948a2e391f9784f6823a29c4a9f",
+        "max_tokens": 3,
+        "unit_price": 0.5,
+        "creators": [
+          {
+            "address": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+            "share": 100
+          }
+        ],
+        "start_time": "2023-05-30T08:00:00Z",
+        "end_time": "2023-05-30T09:00:00Z"
+      },
+      {
+        "name": "public",
+        "merkle_root": null,
+        "max_tokens": 10,
+        "unit_price": 1,
+        "creators": [
+          {
+            "address": "sei10rjl2dt3qyv69shd9wfy825zrqw2f2xv9rrjjd",
+            "share": 100
+          }
+        ],
+        "start_time": "2023-05-30T09:00:00Z",
+        "end_time": null
+      }
+    ]
+  }
